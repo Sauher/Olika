@@ -1,9 +1,12 @@
 body {
     background-image: url("https://wallpapercave.com/wp/wp4653142.jpg");
-color:rgb(28, 189, 230);
-font-style:italic
+    font-style: italic;
 }
 
 h1 {
     color: rgb(255, 238, 0);
+    font-size: 50px;
+}
+p {
+    color:blueviolet;
 }
